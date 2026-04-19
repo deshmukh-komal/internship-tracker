@@ -1,0 +1,13 @@
+# Internship Tracker
+
+A  website to track internship applications with email alerts.
+
+## Tech Stack
+- Frontend: html , css, js;
+- Backend: nodejs
+- Database: mysql
+
+## Features
+- Track applications
+- Email notifications
+- Dashboard UI

@@ -147,13 +147,7 @@ Open `index.html` using Live Server or browser
 ✔ Normalized (3NF) database design
 ✔ Foreign key relationships implemented
 
----
 
-## 📸 Screenshots (Add Here)
-
-* Dashboard
-* Kanban Board
-* ER Diagram
 
 ---
 
@@ -174,7 +168,7 @@ Open `index.html` using Live Server or browser
 
 ## ⭐ Conclusion
 
-This project demonstrates a real-world full-stack application integrating:
+This project demonstrates a real-world  application integrating:
 
 * Web development
 * Database design

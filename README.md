@@ -105,7 +105,7 @@ Create `.env` file:
 ```env
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=Komal@2786
+DB_PASSWORD=your password
 DB_NAME=internship_db
 ```
 
